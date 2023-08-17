@@ -1,4 +1,4 @@
-How to Set Gradient Background Colors in React Native?
+### How to Set Gradient Background Colors in React Native?
 ![Screenshot](screenshot.png)
 
 ### 📖Read blog post
