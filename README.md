@@ -1,4 +1,6 @@
-## How to Set Gradient Background Colors in React Native?
+## How to Create Beautiful Linear Gradient Backgrounds in React Native
+
+Learn how to implement stunning gradient backgrounds in React Native using expo-linear-gradient. Step-by-step guide with practical examples and code snippets.
 ![Screenshot](screenshot.png)
 
 ### 📖Read blog post
